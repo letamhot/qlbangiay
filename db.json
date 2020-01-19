@@ -1,0 +1,84 @@
+{
+  "shoes": [
+    {
+      "ten": "Asics Swift FF",
+      "loai": {
+        "id": "2",
+        "type": "Asics"
+      },
+      "img": "img/as2.jpg",
+      "slu" :2,
+      "gia": "2.700.000 vnd",
+      "id": 2
+    },
+    {
+      "ten": "Asics Nova",
+      "loai": {
+        "id": "2",
+        "type": "Asics"
+      },
+      "img": "img/as1.jpg",
+      "slu" :3,
+      "gia": "2.400.000 vnd",
+      "id": 3
+    },
+    {
+      "ten": "Asics Nova FF",
+      "loai": {
+        "id": "2",
+        "type": "Asics"
+      },
+      "img": "img/as.jpg",
+      "slu" :4,
+      "gia": "2.600.000 vnd",
+      "id": 4
+    },
+    {
+      "ten": "Asics Swift FF",
+      "loai": {
+        "id": "2",
+        "type": "Asics"
+      },
+      "img": "img/as4.jpg",
+      "slu" :1,
+      "gia": "2.700.000 vnd",
+      "id": 8
+    },
+    {
+      "ten": "Asics Netburner FF",
+      "loai": {
+        "id": "2",
+        "type": "Asics"
+      },
+      "img": "img/as3.jpg",
+      "slu" :5,
+      "gia": "2.400.000 vnd",
+      "id": 11
+    }
+  ],
+  "types": [
+    {
+      "id": 1,
+      "type": "Mizuno"
+    },
+    {
+      "id": 2,
+      "type": "Asics"
+    }
+  ],
+  "login" : [
+    {
+      "id":1,
+      "username" : "letamhot@gmail.com",
+      "password" : "123123",
+      "token" : 1
+    },
+    {
+      "id":2,
+      "username" : "letamhot1@gmail.com",
+      "password" : "123123",
+      "token" : 2
+    }
+
+  ]
+}
